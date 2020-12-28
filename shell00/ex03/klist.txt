@@ -1,0 +1,5 @@
+Credentials cache: API:EC99300B-985A-47AD-8D66-FFC1602B8B11
+        Principal: cserapon@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 25 09:18:28 2020  Nov 25 19:18:22 2020  krbtgt/42ROMA.IT@42ROMA.IT
