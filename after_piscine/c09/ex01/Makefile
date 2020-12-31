@@ -15,7 +15,7 @@ all : ${NAME}
 
 ${NAME} : ${OBJS}
 	ar -rc ${NAME} ${OBJS}
-	ranlin ${NAME}
+	ranlib ${NAME}
 
 clean :
 	rm -f ${OBJS}
