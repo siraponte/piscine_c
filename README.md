@@ -21,7 +21,7 @@ c02     -> 100%
 
 c03     -> 100%
 
-c04     -> 70% (Moulinette 100%) for missing peer evaluation
+c04     -> 70% for missing peer evaluation (Moulinette 100%)
 
 c05     -> 100%
 
