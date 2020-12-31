@@ -14,11 +14,11 @@ OBJS = ${SRCS:.c=.o}
 all : ${NAME}
 
 ${NAME} : ${OBJS}
-	ar -rc ${NAME} *.o
+	ar -rc ${NAME} ${OBJS}
+	ranlin ${NAME}
 
 clean :
-	rm -f ${NAME} ${OBJS}
-	ranlib ${NAME}
+	rm -f ${OBJS}
 
 fclean : clean
 	rm -f ${NAME}
