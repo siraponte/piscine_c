@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: cserapon <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/12/06 18:41:32 by cserapon          #+#    #+#             */
-/*   Updated: 2020/12/06 18:55:02 by cserapon         ###   ########.fr       */
+/*   Created: 2020/12/09 11:06:49 by cserapon          #+#    #+#             */
+/*   Updated: 2020/12/09 11:07:47 by cserapon         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,8 +38,8 @@ int		ft_atoi(char *str)
 {
 	int		index;
 	int		sign;
-	long		number;
-	
+	long	number;
+
 	sign = 1;
 	number = 0;
 	index = 0;

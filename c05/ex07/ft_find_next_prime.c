@@ -6,11 +6,11 @@
 /*   By: cserapon <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/12/07 11:26:27 by cserapon          #+#    #+#             */
-/*   Updated: 2020/12/07 11:30:53 by cserapon         ###   ########.fr       */
+/*   Updated: 2020/12/08 20:46:11 by cserapon         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int		ft_is_prime(int nb)
+int		ft_is_prime_(int nb)
 {
 	int		index;
 
@@ -34,7 +34,7 @@ int		ft_find_next_prime(int nb)
 {
 	while (1)
 	{
-		if (ft_is_prime(nb))
+		if (ft_is_prime_(nb))
 			return (nb);
 		nb++;
 	}

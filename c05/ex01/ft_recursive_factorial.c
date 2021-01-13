@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: cserapon <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/12/04 12:18:27 by cserapon          #+#    #+#             */
-/*   Updated: 2020/12/08 17:47:14 by cserapon         ###   ########.fr       */
+/*   Created: 2020/12/09 11:33:29 by cserapon          #+#    #+#             */
+/*   Updated: 2020/12/09 11:33:37 by cserapon         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,4 +23,3 @@ int		ft_recursive_factorial(int nb)
 		return (0);
 	return (ft_recursive(nb, 1));
 }
-

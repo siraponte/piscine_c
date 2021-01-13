@@ -1,16 +1,28 @@
-int     ft_is_base_valid(char *base, int index, int index2)
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_convert_base2.c                                 :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: cserapon <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/12/11 12:05:47 by cserapon          #+#    #+#             */
+/*   Updated: 2020/12/12 07:50:41 by cserapon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+int		ft_is_base_valid(char *base, int index, int index2)
 {
 	while (base[index] != '\0')
 	{
 		if (base[index] == ' ' || base[index] == '\n' || base[index] == '\t'
-	    || base[index] == '\v' || base[index] == '\r' || base[index] == '\f'
-	    || base[index] == '+' || base[index] == '-')
+		|| base[index] == '\v' || base[index] == '\r' || base[index] == '\f'
+		|| base[index] == '+' || base[index] == '-')
 			return (0);
 		index2 = index + 1;
 		while (base[index2] != '\0')
 		{
 			if (base[index] == base[index2])
-                return (0);
+				return (0);
 			index2++;
 		}
 		index++;

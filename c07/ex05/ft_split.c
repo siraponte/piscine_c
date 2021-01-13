@@ -1,9 +1,21 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_split.c                                         :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: cserapon <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/12/11 12:10:38 by cserapon          #+#    #+#             */
+/*   Updated: 2020/12/12 07:56:26 by cserapon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <stdlib.h>
 #include <stdbool.h>
 
 int		g_nbr;
 
-char	*ft_strncpy(char *dest, char *src, unsigned int n, int index)
+char	*ft_strncpy(char *dest, char *src, unsigned int n, unsigned int index)
 {
 	while (src[index] && index < n)
 	{

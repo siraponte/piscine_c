@@ -1,9 +1,21 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_boolean.h                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: cserapon <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/12/10 10:59:14 by cserapon          #+#    #+#             */
+/*   Updated: 2020/12/10 11:00:03 by cserapon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #ifndef FT_BOOLEAN_H
 # define FT_BOOLEAN_H
 
-typedef int     t_bool;
+# include <unistd.h>
 
-#include <unistd.h>
+typedef int		t_bool;
 
 # define TRUE 1
 # define FALSE 0
