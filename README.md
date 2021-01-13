@@ -42,5 +42,3 @@ exam01  -> 80%
 exam02  -> 100%
 
 exam03  -> 78%
-
-*Some code might be wrong, since i've not meticulously update the folder on drive*
