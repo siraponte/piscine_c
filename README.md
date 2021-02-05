@@ -1,7 +1,9 @@
-# My piscine
-
-42 Roma Luiss Piscine
-
+<p align="center">
+  <img src="https://www.42.fr/wp-content/themes/42/images/42_logo_black.svg" width="150" />
+</p>
+<p align="center">
+  <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=true&cursus=C%20Piscine" width="500" />
+</p>
 23 November - 12 December 2020
 
 https://42roma.it/en/
