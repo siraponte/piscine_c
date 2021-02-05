@@ -19,11 +19,11 @@ C 06|C|✔️|100/100|07/12/20|100 XP|7.20|Completed
 C 07|C|❌|30/100|Never|100 XP|None|Moulinette offline
 C 08|C|✔️|100/100|11/12/20|100 XP|8.74|Completed
 Rush 00|C|❌|40/100|Never|150 XP|None|Doesn't handle max int
-Rush 01|C|✔️|63/100|07/12/20|150 XP|6.82|Seg Fault
+Rush 01|C|✔️|63/100|07/12/20|150 XP|6.82|Stupid seg Fault
 Exam 00|C|✔️|100/100|09/11/20|225 XP|3.23|Completed
 Exam 01|C|✔️|80/100|04/12/20|225 XP|6.01|Ft_split
 Exam 02|C|✔️|100/100|08/12/20|225 XP|8.02|Completed
-Final Exam|C|✔️|78/100|12/12/20|375 XP|9.61|Don't remember
+Final Exam|C|✔️|78/100|12/12/20|375 XP|9.61|?????
 
 <h1 align="center"> 
   
