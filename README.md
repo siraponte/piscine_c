@@ -5,8 +5,6 @@
   <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=true&cursus=C%20Piscine" width="500" />
 </p>
 
-https://42roma.it/en/
-
 <h1 align="center"> 
   
 📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
@@ -15,4 +13,9 @@ https://42roma.it/en/
 <h1 align="center"> 
   
 📚 [42 cursus](https://github.com/siraponte/cursus_42)
+</h1>
+
+<h1 align="center"> 
+  
+🐱 [42 Roma Luiss](https://42roma.it/en/) 
 </h1>
