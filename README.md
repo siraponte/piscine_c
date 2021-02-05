@@ -14,5 +14,5 @@ https://42roma.it/en/
 
 <h1 align="center"> 
   
-🏊 [C piscine](https://github.com/siraponte/piscine_c)
+📚 [42 cursus](https://github.com/siraponte/cursus_42)
 </h1>
