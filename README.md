@@ -5,6 +5,12 @@
   <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=true&cursus=C%20Piscine" width="500" />
 </p>
 
+| Project | Language | Result | Completed | Exp | Level |
+|:-------:|:--------:|:------:|:---------:|:---:|:-----:|
+Shell 00|Bash|100/100|25/11/20|100 XP|0.88
+Shell 01|Bash|100/100|26/11/20|100 XP|1.67
+C 00|C|100/100|29/11/20|100 XP|3.83
+
 <h1 align="center"> 
   
 📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
