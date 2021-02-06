@@ -7,8 +7,8 @@
 
 | Project | Language | Passed | Result | Completed | Exp | Level | Failed on |
 |:-------:|:--------:|:------:|:------:|:---------:|:---:|:-----:|:---------:|
-Shell 00|Bash|✔️|100/100|25/11/20|100 XP|0.88|Completed
-Shell 01|Bash|✔️|100/100|26/11/20|100 XP|1.67|Completed
+Shell 00|Shell|✔️|100/100|25/11/20|100 XP|0.88|Completed
+Shell 01|Shell|✔️|100/100|26/11/20|100 XP|1.67|Completed
 C 00|C|✔️|100/100|29/11/20|100 XP|3.83|Completed
 C 01|C|✔️|100/100|30/11/20|100 XP|4.39|Completed
 C 02|C|✔️|100/100|03/12/20|100 XP|4.92|Completed
