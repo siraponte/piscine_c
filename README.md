@@ -1,6 +1,22 @@
 <p align="center">
   <img src="https://www.42.fr/wp-content/themes/42/images/42_logo_black.svg" width="150" />
 </p>
+
+<h1 align="center"> 
+  
+📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
+</h1>
+
+<h1 align="center"> 
+  
+📚 [42 cursus](https://github.com/siraponte/cursus_42)
+</h1>
+
+<h1 align="center"> 
+  
+🐱 [42 Roma Luiss](https://42roma.it/en/) 
+</h1>
+
 <p align="center">
   <img src="http://badge42.herokuapp.com/api/stats/cserapon?darkmode=true&cursus=C%20Piscine" width="500" />
 </p>
@@ -24,18 +40,3 @@ Exam 00|C|✔️|100/100|09/11/20|225 XP|3.23|None
 Exam 01|C|✔️|80/100|04/12/20|225 XP|6.01|Ft_split
 Exam 02|C|✔️|100/100|08/12/20|225 XP|8.02|None
 Final Exam|C|✔️|78/100|12/12/20|375 XP|9.61|?????
-
-<h1 align="center"> 
-  
-📷 [Intra](https://profile.intra.42.fr/users/cserapon) 
-</h1>
-
-<h1 align="center"> 
-  
-📚 [42 cursus](https://github.com/siraponte/cursus_42)
-</h1>
-
-<h1 align="center"> 
-  
-🐱 [42 Roma Luiss](https://42roma.it/en/) 
-</h1>
