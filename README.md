@@ -35,7 +35,7 @@ C 06|C|✔️|100/100|07/12/20|100 XP|7.20|None
 C 07|C|❌|30/100|Never|100 XP|None|Moulinette offline
 C 08|C|✔️|100/100|11/12/20|100 XP|8.74|None
 Rush 00|C|❌|40/100|Never|150 XP|None|Doesn't handle max int
-Rush 01|C|✔️|63/100|07/12/20|150 XP|6.82|Stupid seg Fault
+Rush 01|C|✔️|63/100|07/12/20|150 XP|6.82|Stupid seg fault
 Exam 00|C|✔️|100/100|09/11/20|225 XP|3.23|None
 Exam 01|C|✔️|80/100|04/12/20|225 XP|6.01|Ft_split
 Exam 02|C|✔️|100/100|08/12/20|225 XP|8.02|None
